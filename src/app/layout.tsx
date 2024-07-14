@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Rosadev | Maratona Next JS",
   description: "Projeto de Estudo - Framework Next Js",
-  authors: "Romulo Rosa | @romulorosadev",
+  authors: [{name: "Romulo Rosa", url: "https://github.com/romulorosadev"}]
 };
 
 export default function RootLayout({
