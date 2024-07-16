@@ -4,12 +4,14 @@
 ### Dev: Romulo Rosa | [`Github`](https://github.com/romulorosadev) | [`LinkedIn`](https://github.com/romulorosadev)
 ### Professor: Leonardo Leitão | [`Cod3r Cursos`](https://www.cod3r.com.br/)
 
+## Dependências para Inicializar/Rodar o Projeto
+- Instalar o [Next.js](https://nextjs.org/)
 
 ## Projeto
 Estruturado a partir da instalação de [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Inicializar/Rodar Projeto
-- Inicialize seu terminal de preferência
+- Inicialize seu terminal de preferência (Ex.: Cmd, Windows PowerShell, Git Bash)
 - Acesse o diretório/pasta do projeto
 - Digite o código abaixo referente ao Gerenciador de Pacotes e Dependências Node de sua preferência:
 
